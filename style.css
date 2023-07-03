@@ -1,0 +1,31 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+
+
+.row{
+	display:flex;
+	flex-wrap:no wrap;
+}
+	
+
+.col2{
+	width:50%;
+	
+}
+.col1{
+	font-size:115%;
+	width:50%;
+	margin-left:50px;
+	margin-top:50px;
+	
+}
+
+img.mag{
+	height:500px;
+	width:700px;
+	margin-top:50px;
+}
+	
